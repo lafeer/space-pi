@@ -1,4 +1,4 @@
-# NaluriChallenge
+# Space π
 
 The Naluri space project is investigating how we could model the solar system.
 Calculate π algorithmically to increasing accuracy.
