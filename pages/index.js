@@ -41,7 +41,10 @@ export default function Home() {
       </main>
 
       <footer>
-        <a aria-label="Github Repository" href="https://github.com/lafeer">
+        <a
+          aria-label="Github Repository"
+          href="https://github.com/lafeer/space-pi"
+        >
           <svg
             width="24"
             height="24"
